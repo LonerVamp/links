@@ -6,8 +6,8 @@
 <li><a href="http://www.welivesecurity.com" target="_new">eset welivesecurity</a></li>
 <li><a href="https://blogs.forcepoint.com/security-labs" target="_new">forcepoint</a></li>
 <li><a href="https://www.f-secure.com/weblog" target="_new">f-secure</a></li>
-<li><a href="http://www.infosecnews.org" target="_new">infosecnews</a></li>
-<li><a href="http://infospectives.co.uk" target="_new">infospectives</a></li>
+  <a href="http://www.infosecnews.org" target="_new">infosecnews</a></li>
+  <a href="http://infospectives.co.uk" target="_new">infospectives</a></li>
 <li><a href="https://isc.sans.org" target="_new">internet storm center</a></li>
 <li><a href="https://www.liquidmatrix.org/blog/" target="_new">liquid matrix</a></li>
 <li><a href="https://blog.malwarebytes.com" target="_new">malwarebytes labs</a></li>
