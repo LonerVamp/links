@@ -1,13 +1,13 @@
 # links
 
 <b>.: news/corp blogs</b><br>
-<a href="http://www.darkreading.com" target="_new">darkreading</a><br>
-<a href="https://www.digitalshadows.com/blog-and-research/" target="_new">digital shadows insights</a><br>
-<a href="http://www.welivesecurity.com" target="_new">eset welivesecurity</a><br>
-<a href="https://blogs.forcepoint.com/security-labs" target="_new">forcepoint</a><br>
-<a href="https://www.f-secure.com/weblog" target="_new">f-secure</a><br>
-<a href="http://www.infosecnews.org" target="_new">infosecnews</a><br>
-<a href="http://infospectives.co.uk" target="_new">infospectives</a><br>
+  <a href="http://www.darkreading.com" target="_new">darkreading</a><br>
+  <a href="https://www.digitalshadows.com/blog-and-research/" target="_new">digital shadows insights</a><br>
+  <a href="http://www.welivesecurity.com" target="_new">eset welivesecurity</a><br>
+  <a href="https://blogs.forcepoint.com/security-labs" target="_new">forcepoint</a><br>
+  <a href="https://www.f-secure.com/weblog" target="_new">f-secure</a><br>
+  <a href="http://www.infosecnews.org" target="_new">infosecnews</a><br>
+  <a href="http://infospectives.co.uk" target="_new">infospectives</a><br>
 <a href="https://isc.sans.org" target="_new">internet storm center</a><br>
 <a href="https://www.liquidmatrix.org/blog/" target="_new">liquid matrix</a><br>
 <a href="https://blog.malwarebytes.com" target="_new">malwarebytes labs</a><br>
