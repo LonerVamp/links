@@ -1,31 +1,31 @@
 # links
 
 <b>.: news/corp blogs</b><br>
-<a href="http://www.darkreading.com" target="_new">darkreading</a>
-<a href="https://www.digitalshadows.com/blog-and-research/" target="_new">digital shadows insights</a>
-<a href="http://www.welivesecurity.com" target="_new">eset welivesecurity</a>
-<a href="https://blogs.forcepoint.com/security-labs" target="_new">forcepoint</a>
-<a href="https://www.f-secure.com/weblog" target="_new">f-secure</a>
-  <a href="http://www.infosecnews.org" target="_new">infosecnews</a>
-  <a href="http://infospectives.co.uk" target="_new">infospectives</a>
-<a href="https://isc.sans.org" target="_new">internet storm center</a>
-<a href="https://www.liquidmatrix.org/blog/" target="_new">liquid matrix</a>
-<a href="https://blog.malwarebytes.com" target="_new">malwarebytes labs</a>
-<a href="https://nakedsecurity.sophos.com" target="_new">naked security (sophos)</a>
-<a href="https://www.net-security.org" target="_new">net-security</a>
-<a href="https://netsec.blogspot.com" target="_new">net sec</a>
-<a href="https://www.onthewire.io" target="_new">on the wire.io</a>
-<a href="http://www.rootprompt.org" target="_new">rootprompt</a>
-<a href="https://securelist.com" target="_new">securelist</a>
-<a href="https://securityledger.com" target="_new">security ledger</a>
-<a href="http://searchsecuritychannel.techtarget.com" target="_new">searchsecurity</a>
-<a href="http://searchwincomputing.techtarget.com/?track=sy43" target="_new">searchwin</a>
-<a href="https://www.security-database.com/toolswatch/" target="_new">security-database</a>
-<a href="https://www.symantec.com/connect/symantec-blogs/sr" target="_new">symantec</a>
-<a href="https://blog.trendmicro.com/trendlabs-security-intelligence/" target="_new">trend micro trendlabs</a>
-<a href="http://www.tripwire.com/state-of-security" target="_new">tripwire blog</a>
-<a href="http://blog.vectranetworks.com/blog" target="_new">vectra networks</a>
-<a href="https://www.veracode.com/blog" target="_new">veracode</a>
+  <a href="http://www.darkreading.com" target="_new">darkreading</a><br>
+  <a href="https://www.digitalshadows.com/blog-and-research/" target="_new">digital shadows insights</a><br>
+  <a href="http://www.welivesecurity.com" target="_new">eset welivesecurity</a><br>
+  <a href="https://blogs.forcepoint.com/security-labs" target="_new">forcepoint</a><br>
+  <a href="https://www.f-secure.com/weblog" target="_new">f-secure</a><br>
+  <a href="http://www.infosecnews.org" target="_new">infosecnews</a><br>
+  <a href="http://infospectives.co.uk" target="_new">infospectives</a><br>
+  <a href="https://isc.sans.org" target="_new">internet storm center</a><br>
+  <a href="https://www.liquidmatrix.org/blog/" target="_new">liquid matrix</a><br>
+  <a href="https://blog.malwarebytes.com" target="_new">malwarebytes labs</a><br>
+  <a href="https://nakedsecurity.sophos.com" target="_new">naked security (sophos)</a><br>
+  <a href="https://www.net-security.org" target="_new">net-security</a><br>
+  <a href="https://netsec.blogspot.com" target="_new">net sec</a><br>
+  <a href="https://www.onthewire.io" target="_new">on the wire.io</a><br>
+  <a href="http://www.rootprompt.org" target="_new">rootprompt</a><br>
+  <a href="https://securelist.com" target="_new">securelist</a><br>
+  <a href="https://securityledger.com" target="_new">security ledger</a><br>
+  <a href="http://searchsecuritychannel.techtarget.com" target="_new">searchsecurity</a><br>
+  <a href="http://searchwincomputing.techtarget.com/?track=sy43" target="_new">searchwin</a><br>
+  <a href="https://www.security-database.com/toolswatch/" target="_new">security-database</a><br>
+  <a href="https://www.symantec.com/connect/symantec-blogs/sr" target="_new">symantec</a><br>
+  <a href="https://blog.trendmicro.com/trendlabs-security-intelligence/" target="_new">trend micro trendlabs</a><br>
+  <a href="http://www.tripwire.com/state-of-security" target="_new">tripwire blog</a><br>
+  <a href="http://blog.vectranetworks.com/blog" target="_new">vectra networks</a><br>
+  <a href="https://www.veracode.com/blog" target="_new">veracode</a><br>
 
 <br>
 <b>.: blogs/personal</b><br>
